@@ -74,7 +74,7 @@ Do not add API keys or other sensitive credentials directly to the source code o
 ### Run the Application
 
 ```bash
-streamlit run app.py
+streamlit run ace_machine_learning.py
 ```
 
 The application will open in your browser.
