@@ -94,16 +94,17 @@ The project demonstrates how AI APIs can be integrated into a practical educatio
 - Expanded Machine Learning topics
 - Improved conversational learning
 - Additional interactive learning features
-
+  
 ## Project Structure
 
 ```text
 ace-machine-learning/
 │
-├── app.py
+├── .gitignore
 ├── README.md
-└── .gitignore
+└── ace_machine_learning.py
 ```
+
 
 ## Security
 
